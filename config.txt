@@ -1,0 +1,7 @@
+login_url=https://datasales.ipboxcloud.com.br:9387/login
+api_url=https://datasales.ipboxcloud.com.br:9387/report
+username=your_username
+password=your_password
+queue_list=queue1,queue2,queue3
+start_date=2023-01-01
+export_path=/path/to/save/report.csv
